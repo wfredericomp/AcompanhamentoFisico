@@ -16,7 +16,7 @@ public class Principal {
 		p.caloriaIngerida();
 		p.caloriaUtilizada();
 		p.imprimeIMCSemana();
-		
+		//git
 		cria.fechaEntrada();
 	}
 }
